@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>S.T.A.L.K.E.R. Antistasi</name>
+		<description>A pack of items for a home-brew STALKER styled DnD.</description>
+		<author>Skippie CVO</author>
+		<update version="0.1">
+			<file name="stalker-antistasi.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook.index" />
+		</update>
+	</info>
+	<files>	
+		<file name="source.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/source.xml" />
+		
+		<!-- items -->
+		<file name="items-devices.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/items/items-armor.xml" />
+	</files>
+</index>
